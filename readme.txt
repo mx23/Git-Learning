@@ -1,0 +1,1 @@
+czesc z readme file
