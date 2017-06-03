@@ -13,3 +13,7 @@ Can I find this commit in the branch-DD-featureXYZ ?
 and will this create another ahead or not?
 
 YES — it did !!!
+
+This is from the command line here 
+with the new line
+
