@@ -1,6 +1,5 @@
 czesc z readme file
 
-
 only in branch branch-DD
 another commit .. shall go to the branch-DD
 
@@ -17,3 +16,4 @@ YES — it did !!!
 This is from the command line here 
 with the new line
 
+Another commit in master only
